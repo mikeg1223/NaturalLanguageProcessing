@@ -1,0 +1,5 @@
+training train_file.txt
+test test_file.txt
+parameter_filename movie-review-BOW.NB
+output_filename predictions.txt
+vocab_filename movie-review-HW2\\aclImdb\\imdb.vocab

@@ -1,0 +1,18 @@
+Precentage of word types not in training: 3.926282051282051
+Percentage of tokens not in training: 1.8057060310581439
+Count of word types in training corpus: 39502
+Count of tokens in training corpus: 2221290
+Precentage of bigram types not in training: 26.67829119442023
+Percentage of bigram tokens not in training: 23.00487073810416
+Unigram MLE Record - i: 0.00308498608823764, look: 0.00025759047337527976, forward: 0.00019612535131305453, to: 0.02238972640982691, hearing: 8.96170863655345e-05, your: 0.0005255033336617729, reply: 5.161193455606699e-06, .: 0.03710616574938183, 
+Unigram MLE log probability for given sentence: -84.71604931519259
+Bigram MLE record - <<s>,i>: 0.020177777777777777, <i,look>: 0.002129277566539924, <look,forward>: 0.04918032786885246, <forward,to>: 0.20813397129186603, <to,hearing>: 0.00010478006664012239, <hearing,your>: -inf, <your,reply>: -inf, <reply,.>: -inf, <.,</s>>: 0.9428582266956653, 
+Bigram MLE log probability for given sentence: -inf
+Bigram Add-One Record - <<s>,i>: 0.014030562998540575, <i,look>: 0.00032553496245496766, <look,forward>: 0.0006990911814640967, <forward,to>: 0.0022043535983567544, <to,hearing>: 6.878998417830364e-05, <hearing,your>: 2.5192724341210258e-05, <your,reply>: 2.4616596509366614e-05, <reply,.>: 2.5307485954345296e-05, <.,</s>>: 0.6287873038360022, 
+Bigram Add-One log probability for given sentence: -97.4013602671647
+Unigram MLE perplexity of sentence: 1540.8451466122046
+Bigram MLE perplexity of sentence: inf
+Bigram Add-One perplexity of sentence: 855.2106605432591
+Unigram MLE perplexity of test data: 1193.026108588999
+Bigram MLE perplexity of test data: inf
+Bigram Add-One perplexity of test data: 1807.233786592564

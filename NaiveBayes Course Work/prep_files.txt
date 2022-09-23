@@ -1,0 +1,4 @@
+training movie-review-HW2\\aclImdb\\train
+test movie-review-HW2\\aclImdb\\test
+prep_train train_file.txt
+prep_test test_file.txt
